@@ -8,6 +8,8 @@ A new Flutter project.
 
 ![preview](https://i.postimg.cc/0yqC7w36/wisata-semarang.png)
 
+![preview](https://i.postimg.cc/151FdZK2/wisata-semarang-2.png)
+
 
 This project is a starting point for a Flutter application.
 
